@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.76df82bd.css",
-    "main.js": "/static/js/main.4af2316b.js",
-    "static/js/787.3adb45fa.chunk.js": "/static/js/787.3adb45fa.chunk.js",
-    "static/media/brief.jpg": "/static/media/brief.73ef2ea315b10c1ea977.jpg",
-    "static/media/Recipe_book-amico.svg": "/static/media/Recipe_book-amico.7f12dfcaaeea84b5b63707361a068bfb.svg",
-    "static/media/Chef-amico.svg": "/static/media/Chef-amico.4469f83cd35a7ce3d216940ca22373b9.svg",
-    "static/media/about-us-1.webp": "/static/media/about-us-1.220e9640e4a5b6e43a20.webp",
-    "static/media/Fortune_cookie-amico.svg": "/static/media/Fortune_cookie-amico.3aba9b48fa0cf140af175492c7c78c1d.svg",
-    "static/media/contact us.svg": "/static/media/contact us.81d71a5bdc331e9bc3f057a9d7d4d18b.svg",
-    "static/media/about-us-2.webp": "/static/media/about-us-2.f466e9f6e6a02e4b67a1.webp",
-    "static/media/about-us-3.webp": "/static/media/about-us-3.88ec9bb5c93517ed29e5.webp",
-    "static/media/Recipe book-bro.svg": "/static/media/Recipe book-bro.9cfbb16fed594923965c8556e72e049b.svg",
-    "static/media/Error 404.svg": "/static/media/Error 404.446991a8f34b447ac1294336b86fef70.svg",
-    "static/media/background.png": "/static/media/background.54e68bf563cc50acc561.png",
-    "static/media/noimage.png": "/static/media/noimage.dcccb70b0c5920de0339.png",
-    "index.html": "/index.html",
-    "main.76df82bd.css.map": "/static/css/main.76df82bd.css.map",
-    "main.4af2316b.js.map": "/static/js/main.4af2316b.js.map",
-    "787.3adb45fa.chunk.js.map": "/static/js/787.3adb45fa.chunk.js.map"
+    "main.css": "/foody/static/css/main.76df82bd.css",
+    "main.js": "/foody/static/js/main.602ba412.js",
+    "static/js/787.3adb45fa.chunk.js": "/foody/static/js/787.3adb45fa.chunk.js",
+    "static/media/brief.jpg": "/foody/static/media/brief.73ef2ea315b10c1ea977.jpg",
+    "static/media/Recipe_book-amico.svg": "/foody/static/media/Recipe_book-amico.7f12dfcaaeea84b5b63707361a068bfb.svg",
+    "static/media/Chef-amico.svg": "/foody/static/media/Chef-amico.4469f83cd35a7ce3d216940ca22373b9.svg",
+    "static/media/about-us-1.webp": "/foody/static/media/about-us-1.220e9640e4a5b6e43a20.webp",
+    "static/media/Fortune_cookie-amico.svg": "/foody/static/media/Fortune_cookie-amico.3aba9b48fa0cf140af175492c7c78c1d.svg",
+    "static/media/contact us.svg": "/foody/static/media/contact us.81d71a5bdc331e9bc3f057a9d7d4d18b.svg",
+    "static/media/about-us-2.webp": "/foody/static/media/about-us-2.f466e9f6e6a02e4b67a1.webp",
+    "static/media/about-us-3.webp": "/foody/static/media/about-us-3.88ec9bb5c93517ed29e5.webp",
+    "static/media/Recipe book-bro.svg": "/foody/static/media/Recipe book-bro.9cfbb16fed594923965c8556e72e049b.svg",
+    "static/media/Error 404.svg": "/foody/static/media/Error 404.446991a8f34b447ac1294336b86fef70.svg",
+    "static/media/background.png": "/foody/static/media/background.54e68bf563cc50acc561.png",
+    "static/media/noimage.png": "/foody/static/media/noimage.dcccb70b0c5920de0339.png",
+    "index.html": "/foody/index.html",
+    "main.76df82bd.css.map": "/foody/static/css/main.76df82bd.css.map",
+    "main.602ba412.js.map": "/foody/static/js/main.602ba412.js.map",
+    "787.3adb45fa.chunk.js.map": "/foody/static/js/787.3adb45fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76df82bd.css",
-    "static/js/main.4af2316b.js"
+    "static/js/main.602ba412.js"
   ]
 }
