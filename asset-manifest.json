@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foody/static/css/main.76df82bd.css",
-    "main.js": "/foody/static/js/main.a7e20ac3.js",
+    "main.js": "/foody/static/js/main.b1ce8600.js",
     "static/js/787.3adb45fa.chunk.js": "/foody/static/js/787.3adb45fa.chunk.js",
     "static/media/brief.jpg": "/foody/static/media/brief.73ef2ea315b10c1ea977.jpg",
     "static/media/Recipe_book-amico.svg": "/foody/static/media/Recipe_book-amico.7f12dfcaaeea84b5b63707361a068bfb.svg",
@@ -17,11 +17,11 @@
     "static/media/noimage.png": "/foody/static/media/noimage.dcccb70b0c5920de0339.png",
     "index.html": "/foody/index.html",
     "main.76df82bd.css.map": "/foody/static/css/main.76df82bd.css.map",
-    "main.a7e20ac3.js.map": "/foody/static/js/main.a7e20ac3.js.map",
+    "main.b1ce8600.js.map": "/foody/static/js/main.b1ce8600.js.map",
     "787.3adb45fa.chunk.js.map": "/foody/static/js/787.3adb45fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76df82bd.css",
-    "static/js/main.a7e20ac3.js"
+    "static/js/main.b1ce8600.js"
   ]
 }
