@@ -86,7 +86,7 @@ const App = () => {
         <Routes>
           {/* <ScrollToTop></ScrollToTop> */}
           <Route index element={<MyHomePage />}></Route>
-          <Route path="Home" element={<MyHomePage />} />
+          <Route path="foody" element={<MyHomePage />} />
           <Route path="About" element={<MyAboutPage />} />
           <Route
             path="Contact"
@@ -98,7 +98,7 @@ const App = () => {
             }
           />
           <Route path="Menu" element={<MyMenuPage />} />
-          <Route path="/" element={<Navigate to={"/Home"} />} />
+          <Route path="/" element={<Navigate to={"/foody"} />} />
           <Route path="LogIn" element={<MyLogInPage />} />
           <Route path="Register" element={<MyRegisterPage />} />
           <Route path="Meal/:id" element={<MealPurchasePage />} />
