@@ -87,6 +87,7 @@ const App = () => {
           {/* <ScrollToTop></ScrollToTop> */}
           <Route index element={<MyHomePage />}></Route>
           <Route path="foody" element={<MyHomePage />} />
+          <Route path="Home" element={<MyHomePage />} />
           <Route path="About" element={<MyAboutPage />} />
           <Route
             path="Contact"
