@@ -1,7 +1,7 @@
 {
   "name": "food",
   "version": "0.1.0",
-    "home":"https://AhmedNabil1995.github.io/foody/login",
+  "home": "https://AhmedNabil1995.github.io/foody/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
@@ -55,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
