@@ -51,12 +51,7 @@ function MyAppBar(props) {
       value = -1;
       // console.log(value);
     }
-    else if (location.pathname === "/Home") {
-
-      return value = 0;
-
-    }
-    else if (location.pathname === "/") {
+    else if (location.pathname === "/foody") {
 
       return value = 0;
 
