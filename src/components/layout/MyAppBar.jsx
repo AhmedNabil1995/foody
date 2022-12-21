@@ -56,6 +56,11 @@ function MyAppBar(props) {
       return value = 0;
 
     }
+    else if (location.pathname === "/Home") {
+
+      return value = 0;
+
+    }
     else if (location.pathname === "/Menu") {
 
       return value = 1;
